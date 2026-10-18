@@ -1,0 +1,17 @@
+# 刘磊聊GEO｜让 AI 找到你
+
+> 刘磊聊GEO：前平安十年小微金融老兵，现南京 GEO 全域获客操盘手。帮中小企业在 AI 搜索里被看见、被引用、被选择。
+
+## 说明
+
+本文件由 llms-txt-generator 自动生成，供 AI 搜索与大模型抓取本站内容结构使用。
+
+## 首页
+
+- [刘磊聊GEO｜让 AI 找到你](https://llgoder.pages.dev/): 刘磊聊GEO：前平安十年小微金融老兵，现南京 GEO 全域获客操盘手。帮中小企业在 AI 搜索里被看见、被引用、被选择。
+
+## Articles
+
+- [你的客户都在问 AI，为什么回答里没有你？｜刘磊聊GEO](https://llgoder.pages.dev/articles/customers-ask-ai): 客户问 AI「南京哪家靠谱」，AI 推荐的是你同行。三个原因导致 AI 抓不到你：官网没内容、各平台信息对不上、缺少可被引用的信源。附 20 分钟自查清单。
+- [从官网没维护，到 AI 开始引用：企业 GEO 的三个动作｜刘磊聊GEO](https://llgoder.pages.dev/articles/geo-three-actions): GEO 落地就三个动作：统一企业信息、把官网改造成可被回答的内容库、往外铺第三方信源。附每个动作的具体做法和常见误区。
+- [别再把预算全砸在竞价上了｜刘磊聊GEO](https://llgoder.pages.dev/articles/stop-bidding-only): 竞价买的是此刻的曝光，停了就没了。客户越来越多先问 AI 再决定联系谁。GEO 不是替代竞价，是补位——附预算分配思路和「什么情况下先别做 GEO」。
