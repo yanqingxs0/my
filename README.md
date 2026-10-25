@@ -60,3 +60,5 @@ python3 llms_txt.py https://example.com -o llms.txt --max-pages 100 --timeout 15
 
 - 注册链接：https://muse.ai/join
 - 邀请码：`ELGFUL`
+
+想多了解 Muse 本身：[用 Muse 是什么体验](muse-invite.md)
