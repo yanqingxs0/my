@@ -56,9 +56,4 @@ python3 llms_txt.py https://example.com -o llms.txt --max-pages 100 --timeout 15
 
 ## 这个工具是怎么做的
 
-这个工具是用 Muse 做出来的：给它讲清楚需求，它写代码、跑测试、修 bug，全程可追溯。如果你也想试试 Muse：
-
-- 注册链接：https://muse.ai/join
-- 邀请码：`ELGFUL`
-
-想多了解 Muse 本身：[用 Muse 是什么体验](muse-invite.md)
+这个工具是用 Muse 做出来的：给它讲清楚需求，它写代码、跑测试、修 bug，全程可追溯。
